@@ -1,3 +1,3 @@
 #!/bin/bash
 /app/checkpip.sh
-supervisord
+supervisord -c /etc/supervisord.conf
