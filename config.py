@@ -10,10 +10,6 @@ class Config:
     BASE_DIR = os.path.abspath(os.path.dirname(__file__))
     DEBUG = False
     SECRET_KEY = os.getenv('SECRET_KEY') or 'imyoursecretkey'
-    API_KEY = os.getenv('API_KEY')
-
-    TOKEN_EXPIRY = int(os.getenv('TOKEN_EXPIRY'))
-    CHANNEL_TOKEN_EXPIRY = int(os.getenv('CHANNEL_TOKEN_EXPIRY'))
 
     BUNDLE_ERRORS = True
 
@@ -24,7 +20,6 @@ class Config:
     LOGGING_FORMAT = '%(asctime)s - local.%(levelname)s - %(module)s ' \
                      '- %(funcName)s - %(message)s'
 
-    LOGENTRIES_TOKEN = os.getenv('LOGENTRIES_TOKEN')
     CACHE_TYPE = 'redis'
     CACHE_KEY_PREFIX = 'valkyrie_magento'
 
