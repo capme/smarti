@@ -1,0 +1,53 @@
+2018-06-07 09:38:20,790 CRIT Supervisor running as root (no user in config file)
+2018-06-07 09:38:20,808 INFO RPC interface 'supervisor' initialized
+2018-06-07 09:38:20,808 INFO RPC interface 'supervisor' initialized
+2018-06-07 09:38:20,809 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-07 09:38:20,809 INFO supervisord started with pid 8
+2018-06-07 09:38:21,811 INFO spawned: 'app' with pid 11
+2018-06-07 09:38:23,346 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:38:23,732 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:38:24,736 INFO spawned: 'app' with pid 22
+2018-06-07 09:38:26,055 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:38:26,378 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:38:27,382 INFO spawned: 'app' with pid 33
+2018-06-07 09:38:28,611 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:38:28,971 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:38:29,973 INFO spawned: 'app' with pid 44
+2018-06-07 09:38:31,178 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:38:31,528 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:38:32,530 INFO spawned: 'app' with pid 55
+2018-06-07 09:38:33,878 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:38:34,265 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:38:35,268 INFO spawned: 'app' with pid 66
+2018-06-07 09:38:36,411 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:38:36,744 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:38:37,747 INFO spawned: 'app' with pid 77
+2018-06-07 09:38:39,096 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:38:39,426 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:40:15,433 CRIT Supervisor running as root (no user in config file)
+2018-06-07 09:40:15,446 INFO RPC interface 'supervisor' initialized
+2018-06-07 09:40:15,747 INFO RPC interface 'supervisor' initialized
+2018-06-07 09:40:15,747 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-07 09:40:15,747 INFO supervisord started with pid 11
+2018-06-07 09:40:16,750 INFO spawned: 'app' with pid 14
+2018-06-07 09:40:18,241 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:40:18,601 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:40:19,604 INFO spawned: 'app' with pid 25
+2018-06-07 09:40:20,820 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:40:21,166 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:40:22,168 INFO spawned: 'app' with pid 36
+2018-06-07 09:40:23,351 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:40:23,763 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:40:24,766 INFO spawned: 'app' with pid 47
+2018-06-07 09:40:25,918 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:40:26,273 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:40:27,275 INFO spawned: 'app' with pid 58
+2018-06-07 09:40:28,655 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-07 09:40:28,938 INFO exited: app (exit status 1; not expected)
+2018-06-07 09:42:25,486 CRIT Supervisor running as root (no user in config file)
+2018-06-07 09:42:25,501 INFO RPC interface 'supervisor' initialized
+2018-06-07 09:42:25,802 INFO RPC interface 'supervisor' initialized
+2018-06-07 09:42:25,802 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-07 09:42:25,803 INFO supervisord started with pid 9
+2018-06-07 09:42:26,804 INFO spawned: 'app' with pid 12
+2018-06-07 09:42:28,551 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
