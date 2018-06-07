@@ -1,0 +1,39 @@
+amqp==2.3.2
+billiard==3.5.0.3
+celery==4.1.1
+click==6.7
+itsdangerous==0.24
+Jinja2==2.10
+kombu==4.2.1
+MarkupSafe==1.0
+pkg-resources==0.0.0
+pytz==2018.4
+vine==1.1.4
+Werkzeug==0.14.1
+
+# A microframework base on Werkzeug
+Flask==1.0.2
+
+# Scripting support for Flask
+Flask-Script==2.0.6
+
+# Simple framework for creating Rest APIs
+Flask-RESTful==0.3.6
+
+# Python client for Redis key-value store
+redis==2.10.6
+
+# Python HTTP for Humans.
+requests==2.18.4
+
+#  Python datetimes made easy.
+pendulum==1.4.2
+
+# Add SQLAlchemy support to your Flask Application
+Flask-SQLAlchemy==2.3.2
+
+# Add .env support to your django/flask apps in development and deployments
+python-dotenv==0.7.1
+
+# gevent
+gevent==1.2.2

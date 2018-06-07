@@ -1,0 +1,7 @@
+-r base.txt
+-r local.txt
+# WSGI HTTP Server for Unix
+gunicorn==19.6.0
+
+# Eventlet for async and lightweight executions
+eventlet==0.21.0
