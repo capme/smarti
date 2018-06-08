@@ -23,6 +23,9 @@ class Config:
     CACHE_TYPE = 'redis'
     CACHE_KEY_PREFIX = 'valkyrie_magento'
 
+    CELERY_BROKER_URL = 'redis://redis:6379'
+    CELERY_RESULT_BACKEND = 'redis://redis:6379'
+
 
 class TestingConfig(Config):
     TESTING = True
