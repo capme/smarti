@@ -26,6 +26,10 @@ class Config:
     CELERY_BROKER_URL = 'redis://redis:6379'
     CELERY_RESULT_BACKEND = 'redis://redis:6379'
 
+    INSTALLED_APPS = [
+        'app',
+    ]
+
 
 class TestingConfig(Config):
     TESTING = True

@@ -119,3 +119,42 @@
 2018-06-08 09:14:37,735 INFO spawned: 'app' with pid 19
 2018-06-08 09:14:39,303 INFO success: celery-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2018-06-08 09:14:39,303 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:30:36,752 INFO stopped: celery-worker (exit status 0)
+2018-06-08 09:30:37,516 INFO stopped: app (exit status 0)
+2018-06-08 09:30:38,529 INFO spawned: 'celery-worker' with pid 49
+2018-06-08 09:30:38,534 INFO spawned: 'app' with pid 50
+2018-06-08 09:30:40,062 INFO success: celery-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:30:40,062 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:41:30,151 CRIT Supervisor running as root (no user in config file)
+2018-06-08 09:41:30,166 INFO RPC interface 'supervisor' initialized
+2018-06-08 09:41:30,468 INFO RPC interface 'supervisor' initialized
+2018-06-08 09:41:30,468 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 09:41:30,475 INFO supervisord started with pid 9
+2018-06-08 09:41:31,479 INFO spawned: 'celery-worker' with pid 12
+2018-06-08 09:41:31,484 INFO spawned: 'app' with pid 13
+2018-06-08 09:41:33,068 INFO success: celery-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:41:33,068 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:45:38,466 INFO stopped: celery-worker (exit status 0)
+2018-06-08 09:45:39,127 INFO stopped: app (exit status 0)
+2018-06-08 09:45:40,141 INFO spawned: 'celery-worker' with pid 44
+2018-06-08 09:45:40,143 INFO spawned: 'app' with pid 45
+2018-06-08 09:45:41,537 INFO success: celery-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:45:41,537 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:50:41,736 CRIT Supervisor running as root (no user in config file)
+2018-06-08 09:50:41,757 INFO RPC interface 'supervisor' initialized
+2018-06-08 09:50:42,059 INFO RPC interface 'supervisor' initialized
+2018-06-08 09:50:42,059 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 09:50:42,059 INFO supervisord started with pid 11
+2018-06-08 09:50:43,062 INFO spawned: 'celery-worker' with pid 14
+2018-06-08 09:50:43,064 INFO spawned: 'app' with pid 15
+2018-06-08 09:50:44,854 INFO success: celery-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:50:44,855 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:57:53,082 CRIT Supervisor running as root (no user in config file)
+2018-06-08 09:57:53,097 INFO RPC interface 'supervisor' initialized
+2018-06-08 09:57:53,398 INFO RPC interface 'supervisor' initialized
+2018-06-08 09:57:53,399 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 09:57:53,399 INFO supervisord started with pid 9
+2018-06-08 09:57:54,401 INFO spawned: 'celery-worker' with pid 12
+2018-06-08 09:57:54,403 INFO spawned: 'app' with pid 13
+2018-06-08 09:57:56,175 INFO success: celery-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 09:57:56,175 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
