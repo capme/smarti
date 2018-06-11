@@ -1,7 +1,7 @@
 FROM python:3.6
 
 RUN apt-get update && apt-get install -y python-dev libxml2-dev libxslt1-dev zlib1g-dev vim \
-    less build-essential git openssh-client supervisor pgbouncer libssl-dev libffi-dev && \
+    less build-essential git openssh-client supervisor libssl-dev libffi-dev && \
     apt-get clean && \
     mkdir -p /var/log/supervisor
 

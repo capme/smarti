@@ -158,3 +158,12 @@
 2018-06-08 09:57:54,403 INFO spawned: 'app' with pid 13
 2018-06-08 09:57:56,175 INFO success: celery-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2018-06-08 09:57:56,175 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 02:35:52,114 CRIT Supervisor running as root (no user in config file)
+2018-06-11 02:35:52,125 INFO RPC interface 'supervisor' initialized
+2018-06-11 02:35:52,126 INFO RPC interface 'supervisor' initialized
+2018-06-11 02:35:52,126 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 02:35:52,126 INFO supervisord started with pid 15
+2018-06-11 02:35:53,128 INFO spawned: 'celery-worker' with pid 18
+2018-06-11 02:35:53,130 INFO spawned: 'app' with pid 19
+2018-06-11 02:35:54,795 INFO success: celery-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 02:35:54,795 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
