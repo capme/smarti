@@ -21,7 +21,7 @@ class Config:
                      '- %(funcName)s - %(message)s'
 
     CACHE_TYPE = 'redis'
-    CACHE_KEY_PREFIX = 'valkyrie_magento'
+    CACHE_KEY_PREFIX = 'smarti'
 
     CELERY_BROKER_URL = 'redis://redis:6379'
     CELERY_RESULT_BACKEND = 'redis://redis:6379'
