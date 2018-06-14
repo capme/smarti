@@ -1,4 +1,6 @@
+from .resources.status import Status
+
 
 def init_routes(api):
     """routes"""
-    pass
+    api.add_resource(Status, '/status')
